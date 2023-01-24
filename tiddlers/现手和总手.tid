@@ -1,0 +1,9 @@
+created: 20230124035820204
+creator: Schweiger
+modified: 20230124040202530
+modifier: Schweiger
+title: 现手和总手
+type: text/vnd.tiddlywiki
+
+<<reuse-tiddler "现手">>
+<<reuse-tiddler "总手">>

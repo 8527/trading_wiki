@@ -1,0 +1,9 @@
+created: 20230124035347283
+creator: Schweiger
+modified: 20230124035739551
+modifier: Schweiger
+tags: 注意
+title: 买盘和卖盘注意事项
+type: text/vnd.tiddlywiki
+
+如果股价跌停，那么以跌停价格成交的申报，都称之为[[外盘]]，即[[买盘]]；如果股价涨停，那么以涨停价格成交的申报，都称之为[[内盘]]，即[[卖盘]]；

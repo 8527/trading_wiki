@@ -1,0 +1,10 @@
+created: 20230124033927048
+creator: Schweiger
+modified: 20230124034208034
+modifier: Schweiger
+title: 成交额
+type: text/vnd.tiddlywiki
+
+所谓成交额（Amount），也叫成交金额，是指在一定交易时间内，买卖双方所成交的金额。成交额的基本单位是:元。
+
+成交额 = [[成交量]] x 100 x 成交价格

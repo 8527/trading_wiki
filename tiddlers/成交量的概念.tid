@@ -1,0 +1,23 @@
+created: 20230124032300406
+creator: Schweiger
+modified: 20230124044026181
+modifier: Schweiger
+title: 成交量的概念
+type: text/vnd.tiddlywiki
+
+!!（一） 什么是成交量
+<<reuse-tiddler "成交量">>
+
+!!（二）成交量相关概念
+!!! 1.[[成交额]] 
+<<reuse-tiddler "成交额">>
+!!! 2.[[买盘和卖盘]]
+<<reuse-tiddler "买盘和卖盘">>
+!!! 3.[[现手和总手]]
+<<reuse-tiddler "现手和总手">>
+!!! 4.[[量比]]
+<<reuse-tiddler "量比">>
+!!! 5.[[换手率]]
+<<reuse-tiddler "换手率">>
+!!! 6.[[委买委卖]]
+<<reuse-tiddler "委买委卖">>

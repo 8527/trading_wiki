@@ -1,0 +1,19 @@
+created: 20230124045043887
+creator: Schweiger
+modified: 20230124045918996
+modifier: Schweiger
+title: 成交量的形态
+type: text/vnd.tiddlywiki
+
+成交量的常见形态，一般可归纳为四种:[[放量]]、[[天量]]、[[缩量]]、[[地量]]。
+
+!!! 放量
+<<reuse-tiddler "放量">>
+!!! 天量
+<<reuse-tiddler "天量">>
+!!! 缩量
+<<reuse-tiddler "缩量">>
+!!! 地量
+<<reuse-tiddler "地量">>
+!!! U型、L型特征
+<<reuse-tiddler "地量">>
