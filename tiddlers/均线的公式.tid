@@ -1,0 +1,17 @@
+created: 20230125122000069
+creator: Schweiger
+modified: 20230125141352502
+modifier: Schweiger
+title: 均线的公式
+type: text/vnd.tiddlywiki
+
+根据对数据处理方法的不同，移动平均线可分为：简单算术移动平均线（SMA）、加权移动平均线（WMA）和指数平滑移动平均线（EMA）。在实际应用中，SMA和EMA最为常用。
+
+!!! （一）简单算术移动平均线
+<<reuse-tiddler "简单算术移动平均线">>
+
+!!! （二）加权移动平均线
+<<reuse-tiddler "加权移动平均线">>
+
+!!! （三）指数平滑移动平均线
+<<reuse-tiddler "指数平滑移动平均线">>
