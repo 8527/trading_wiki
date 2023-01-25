@@ -1,0 +1,12 @@
+created: 20230125044232521
+creator: Schweiger
+modified: 20230125044454920
+modifier: Schweiger
+title: 价格形态
+type: text/vnd.tiddlywiki
+
+价格形态可分为[[反转形态]]（Reversal）和[[持续形态]]（Continuation或Momentum动量、惯性）。
+
+<<reuse-tiddler "反转形态">>
+
+<<reuse-tiddler "持续形态">>
