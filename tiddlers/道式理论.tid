@@ -1,0 +1,17 @@
+created: 20230125050155348
+creator: Schweiger
+modified: 20230125051144479
+modifier: Schweiger
+title: 道式理论
+type: text/vnd.tiddlywiki
+
+''在道式理论中，股票市场中的价格走势可以划分为三个级别：''
+
+!!!! ''1、[[主要走势]]''
+<<reuse-tiddler "主要走势">>
+
+!!!! ''2、[[次级折返走势]]''
+<<reuse-tiddler "次级折返走势">>
+
+!!!! ''3、[[日间杂波]]''
+<<reuse-tiddler "日间杂波">>
