@@ -1,0 +1,14 @@
+created: 20230126112845504
+creator: Schweiger
+modified: 20230126113226230
+modifier: Schweiger
+title: DEA慢线
+type: text/vnd.tiddlywiki
+
+
+<<<
+EMA = EMA(C,N) =  [2 * C,,n,, + (N-1) * EMA,,n-1,,] / (N+1)
+<<<
+DEA = EMA(DIF,9) = [2 * DIF + (9-1) * EMA,,8,,] / (9+1)
+
+DEA是DIF的9日平滑移动平均线，这是将DIF值进行平滑处理。这种平滑处理有两个好处，一是可以让曲线消除偶性的噪声，使其更稳定；二是可以结合DIF曲线，以[[金叉死叉]]等来指导实战。

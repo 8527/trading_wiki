@@ -1,0 +1,21 @@
+created: 20230126111524099
+creator: Schweiger
+modified: 20230126112704512
+modifier: Schweiger
+title: DIF快线
+type: text/vnd.tiddlywiki
+
+DIF是快速[[指数平滑移动平均线]]12[[EMA]]与慢速[[指数平滑移动平均线]]26[[EMA]]的差，DIF对于市场价格的反应比较快，因此被称为”快线“。
+
+DIF值的正负，反映了两条[[指数平滑平均线]]的上下位置关系。12日EMA线在26日EMA线之上，DIF为正值；12日EMA线在26日EMA线之下，DIF为负值。
+
+
+<<<
+EMA = EMA(C,N) =  [2 * C,,n,, + (N-1) * EMA,,n-1,,] / (N+1)
+<<<
+
+所以：
+
+12EMA = EMA(C,12) = [2 * C,,12,, + (12-1) * EMA,,11,,] / (12+1)
+
+26EMA = EMA(C,26) = [2 * C,,26,, + (26-1) * EMA,,25,,] / (26+1)

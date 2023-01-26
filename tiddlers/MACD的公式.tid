@@ -1,0 +1,25 @@
+created: 20230126111055688
+creator: Schweiger
+modified: 20230126113556190
+modifier: Schweiger
+title: MACD的公式
+type: text/vnd.tiddlywiki
+
+MACD指标由三部分组成，它们分别是：DIF（Difference）、DEA（Difference Exponential Average）、MACD。计算过程如下：
+
+<<<
+DIF = 12EMA - 26EMA;
+
+DEA = EMA(DIF,9);
+
+MACD = 2*(DIF-DEA); (或者：BAR = 2*2*(DIF-DEA))
+<<<
+
+!!! （一）DIF快线
+<<reuse-tiddler "DIF快线">>
+
+!!! （二）DEA慢线
+<<reuse-tiddler "DEA慢线">>
+
+!!! （三）MACD柱子（柱状体BAR）
+<<reuse-tiddler "MACD柱子">>

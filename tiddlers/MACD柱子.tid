@@ -1,0 +1,10 @@
+created: 20230126113316678
+creator: Schweiger
+modified: 20230126113540501
+modifier: Schweiger
+title: MACD柱子
+type: text/vnd.tiddlywiki
+
+MACD是DIF与DEA差值的两倍，并以柱状线的形式输出。当MACD大于0时，绘制成阳线的颜色（一般用红色）；当MACD小于0时，绘制成阴线的颜色（一般用绿色）。
+
+MACD数值之所以这样设计，是因为柱状线的变化更加立体化、形象化，有助于我们研判DIF线与DEA线的分离聚合情况。

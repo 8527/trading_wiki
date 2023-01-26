@@ -1,0 +1,21 @@
+created: 20230126112019418
+creator: Schweiger
+modified: 20230126115813109
+modifier: Schweiger
+title: EMA
+type: text/vnd.tiddlywiki
+
+EMA计算公式:
+''
+EMA = α * C,,n,, + (1-α) * EMA,,n-1,,
+''
+
+其中，C,,n,,为当日收盘价，EMA,,n-1,,为昨日的EMA值，α权重系数（平滑系数，Smoothing factor），一般取作2/(N+1),
+
+则公式为：
+''
+EMA = EMA(C,N) =  [2 * C,,n,, + (N-1) * EMA,,n-1,,] / (N+1)
+''
+
+当公式不断递归，直至EMA,,1,,出现，EMA,,1,,是没有定义的，一般取值为C,,1,,
+

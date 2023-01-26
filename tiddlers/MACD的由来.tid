@@ -1,0 +1,12 @@
+created: 20230126110216930
+creator: Schweiger
+modified: 20230126110952904
+modifier: Schweiger
+title: MACD的由来
+type: text/vnd.tiddlywiki
+
+MACD(Moving Average Convergence and Divergence)，全称为”指数平滑异同移动平均线“。其中，Moving Average是移动平均线，Convergence的意思是聚合、集中收敛，Divergence的意思是分歧、分离、发散，所以MACD直译为”移动平均线聚散指标“，简称为”均线聚散指标“，
+
+''MACD就是利用短期移动平均线12EMA与长期移动平均线26EMA之间的聚合与离散状况，对买进、卖出时机作出研判的技术指标。''
+
+MACD指标由三部分组成，它们分别是：DIF（快线）、DEA（慢线）、MACD（柱子）。
