@@ -1,6 +1,19 @@
 created: 20230125141350417
 creator: Schweiger
-modified: 20230125141350417
+modified: 20230126043314311
 modifier: Schweiger
 title: 简单算术移动平均线
 type: text/vnd.tiddlywiki
+
+简单算术移动平均线（Simple Mathematic Moving Average，SMA）,是最常用的一种移动平均线，简称为：移动平均线（Moving Average，MA）,或均线。
+
+其计算方法是：将最近N个交易日的收盘价赋予相同的权重，进行简单相加并取平均值，然后将计算得到的一系列平均值以线段的形式相连接。
+
+MA计算公式为：
+''
+MA = (C,,1,, + C,,2,, + ... + C,,n,,) / N
+''
+
+其中，C代表某个时间的收盘价，N表示移动平均周期，如5日、10日、20日、60日等。
+
+5日移动平均线可记为5MA,10日移动平均线可记为10MA,20日移动平均线可记为20MA,60日移动平均线可记为60MA。

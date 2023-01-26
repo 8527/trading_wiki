@@ -1,0 +1,32 @@
+created: 20230126050043421
+creator: Schweiger
+modified: 20230126074620619
+modifier: Schweiger
+tags: [[第五章 交易决策·趋]]
+title: 第二节 均线的变化
+type: text/vnd.tiddlywiki
+
+懂得了如何计算和绘制移动平均线，虽然很重要，但更重要的是，交易者必须深入的了解和认识移动平均线的原理和实质，掌握移动平均线的变化特点，才能更好地驾驭它。
+
+!! 一、单均线扭转
+<<reuse-tiddler "单均线扭转">>
+
+!!! （一）[[龙尾K线]]
+<<reuse-tiddler "龙尾K线">>
+
+!!! （二）[[甩尾技术]]
+<<reuse-tiddler "甩尾技术">>
+
+!! 二、双均线交叉
+!!! （一）[[价格穿越]]
+<<reuse-tiddler "价格穿越">>
+
+!!! （二）[[金叉死叉]]
+<<reuse-tiddler "金叉死叉">>
+
+!! 三、多均线组合
+!!! （一）[[均线收敛]]
+<<reuse-tiddler "均线收敛">>
+
+!!! （二）[[均线发散]]
+<<reuse-tiddler "均线发散">>

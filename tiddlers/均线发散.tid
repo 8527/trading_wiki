@@ -1,0 +1,16 @@
+created: 20230126062036522
+creator: Schweiger
+modified: 20230126062531171
+modifier: Schweiger
+title: 均线发散
+type: text/vnd.tiddlywiki
+
+所谓均线发散，是指股价或指数运行过程中，各周期均线由交叉粘合聚拢开始分离，并呈同向发散的现象。
+
+均线发散分为两种：[[多头排列]]、[[空头排列]]。
+
+!!!! 1.多头排列
+<<reuse-tiddler "多头排列">>
+
+!!!! 2.空头排列
+<<reuse-tiddler "空头排列">>
